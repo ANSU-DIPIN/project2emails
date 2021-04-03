@@ -1,5 +1,3 @@
-# project2emails
-
 # Project Name : NLP ON EMAILS
 
 Text mining
